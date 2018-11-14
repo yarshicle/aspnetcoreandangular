@@ -54,7 +54,5 @@ namespace DatingApp.API {
       app.UseAuthentication();
       app.UseMvc();
     }
-
-    //Test Change to see if I have to log into Github again...
   }
 }
